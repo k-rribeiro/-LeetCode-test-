@@ -1,24 +1,57 @@
-My LeetCode Solutions Repository
+##LeetCode Practice
 
-This repository contains solutions to a variety of LeetCode problems, organized by topic and/or difficulty level. The main goals are:
+This repository contains solutions and study materials based on problems from LeetCode, focusing on developing strong foundations in algorithms and data structures through consistent practice.
 
-Strengthen my understanding of core computer science concepts
-Practice problem-solving strategies
-Build consistency in coding and algorithmic thinking
-Prepare for technical interviews
+---
 
---------
-The problems are organized into folders such as:
+Objective
 
-- arrays;
-- strings;
-- linked-lists;
-- trees;
-- dynamic-programming;
-- graphs.
+The main objective is to improve problem-solving skills and deepen understanding of computational concepts, emphasizing:
 
-Each folder contains solutions with clear naming based on the problem title or number. I regularly update this repository as I solve new problems and revisit previous ones to improve efficiency and clarity.
+The development of efficient algorithmic thinking
+Mastery of fundamental data structures
+Optimization of time and space complexity
+Preparation for technical interviews
 
+---
 
-------
-Consistency is key when it comes to mastering problem-solving. This repository reflects my continuous effort to grow and learn.
+Overview
+
+This repository serves as a personal study log, where problems are solved, reviewed, and refined over time. It combines both theoretical understanding and practical implementation, helping to build intuition for tackling a wide range of computational challenges.
+
+The focus is not only on solving problems, but also on understanding different approaches and improving solution quality.
+
+---
+
+Topics Covered
+
+🔹 Data Structures
+    - Arrays
+    - Strings
+    - Linked Lists
+    - Trees
+    - Graphs
+    - Stacks and Queues
+    
+🔹 Algorithms
+    - Sorting and Searching
+    - Recursion and Backtracking
+    - Dynamic Programming
+    - Greedy Algorithms
+    - Graph Traversal (BFS/DFS)
+    
+🔹 Problem-Solving Techniques
+    - Two Pointers
+    - Sliding Window
+    - Divide and Conquer
+    - Hashing
+    
+🔹 Complexity Analysis
+    - Time complexity (Big-O notation)
+    - Space complexity
+    - Optimization strategies
+
+---
+Progress
+
+The repository is continuously updated as new problems are solved and previous solutions are improved, reinforcing long-term learning and consistency.
