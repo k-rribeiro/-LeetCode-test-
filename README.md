@@ -1,4 +1,4 @@
-##LeetCode Practice
+# LeetCode Practice
 
 This repository contains solutions and study materials based on problems from LeetCode, focusing on developing strong foundations in algorithms and data structures through consistent practice.
 
