@@ -25,7 +25,7 @@ The focus is not only on solving problems, but also on understanding different a
 
 ## Topics Covered
 
-🔹 Data Structures
+🔹 Data Structures:
     - Arrays 
     - Strings
     - Linked Lists
@@ -33,20 +33,20 @@ The focus is not only on solving problems, but also on understanding different a
     - Graphs
     - Stacks and Queues
     
-🔹 Algorithms
+🔹 Algorithms:
     - Sorting and Searching
     - Recursion and Backtracking
     - Dynamic Programming
     - Greedy Algorithms
     - Graph Traversal (BFS/DFS)
     
-🔹 Problem-Solving Techniques
+🔹 Problem-Solving Techniques:
     - Two Pointers
     - Sliding Window
     - Divide and Conquer
     - Hashing
     
-🔹 Complexity Analysis
+🔹 Complexity Analysis:
     - Time complexity (Big-O notation)
     - Space complexity
     - Optimization strategies
