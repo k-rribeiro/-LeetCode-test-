@@ -26,7 +26,7 @@ The focus is not only on solving problems, but also on understanding different a
 ## Topics Covered
 
 🔹 Data Structures
-    - Arrays \n
+    - Arrays 
     - Strings
     - Linked Lists
     - Trees
