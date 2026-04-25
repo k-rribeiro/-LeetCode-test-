@@ -10,12 +10,12 @@ Prepare for technical interviews
 --------
 The problems are organized into folders such as:
 
-/arrays
-/strings
-/linked-lists
-/trees
-/dynamic-programming
-/graphs
+- arrays;
+- strings;
+- linked-lists;
+- trees;
+- dynamic-programming;
+- graphs.
 
 Each folder contains solutions with clear naming based on the problem title or number. I regularly update this repository as I solve new problems and revisit previous ones to improve efficiency and clarity.
 
